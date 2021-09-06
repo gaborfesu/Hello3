@@ -4,7 +4,7 @@
 * Copyright: 2021, Fésű Gábor
 * Group: Szoft II. N
 * Date: 2021-09-06
-* Github: https://github.com/gabor/
+* Github: https://github.com/gaborfesu/
 * Licenc: GNU GPL
 */
 public class App {
